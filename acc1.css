@@ -1,0 +1,161 @@
+.div1{
+  background-color: rgb(4, 22, 44);
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 10px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+
+h2 {
+
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(106, 203, 216);
+  font-size: 8px;
+  border-radius: 10px;
+}
+
+h5 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif; font-size:25px;
+  color: rgb(167, 0, 0);
+  font-size:medium;
+}
+
+i{
+  color: rgb(255, 255, 255);
+  background-color: rgb(66, 102, 99);
+  border-radius: 5px;
+}
+
+label{
+  color: white;
+}
+
+.btn1{
+  margin-left: 10px;
+  border-radius: 20px;
+  color: black;
+  background-color: cadetblue;
+  height: 55px;
+}
+
+.btn1:hover,.btn1:active{
+  background-color: rgb(145, 216, 216);
+}
+
+
+.table h3{
+  color: rgb(11, 65, 47);
+}
+
+.table thead{
+  background-color: rgb(106, 216, 179);
+  color: rgb(255, 255, 255);
+}
+
+.table h5,b{
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+height: 40px;
+}
+
+.field-border div {
+ border: 2px solid #444444;
+}
+
+div {
+  display: block;
+}
+
+.w-70 {
+  width: 70%!important;
+}
+
+.w-30 {
+  width: 30%!important;
+}
+
+#id1_1 {
+  border: none;
+  margin: 0px 0px 0px 3px;
+  padding: 0px;
+  border: none;
+  width: 725px;
+  overflow: hidden;
+}
+
+p {
+  text-align: center;
+  display: block;
+  /* border: solid 2px; */
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+p1 {
+  text-align: center;
+  display: block;
+  border: solid 2px;
+}
+
+.p0 {
+  text-align: center;
+  padding-left: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.t1
+{
+  background-color: rgb(0, 0, 49);
+}
+
+.t2
+{
+  background-color: rgb(19, 19, 107);
+  background-position: ;
+}
+
+.ft0 {
+  font: bold 32px 'Arial';
+  line-height: 37px;
+}
+
+.t0 {
+  width: 1500px;
+  margin-left: 3px;
+  font: bold 13px 'Arial';
+}
+
+table {
+  border-spacing: 2px;
+  border-color: grey;
+}
+
+.m1{
+  width: 650px;
+}
+
+#container div{
+  display:inline-block;
+  width:180px;
+}
+
+.plus{
+  color:rgb(135, 255, 66);
+}
+
+.minus{
+  color: rgb(255, 45, 45);
+}

@@ -1,0 +1,214 @@
+{
+    "ac_details": {
+        "Liabilities": {
+            "Capital (PEST)": {
+                "id": "capital",
+                "name": "capital"
+            },
+            "Loan": {
+                "id": "loan",
+                "name": "loan"
+            },
+            "Duty & Taxes": {
+                "id": "duty_n_taxes",
+                "name": "duty_n_taxes"
+            },
+            "Employees Payable ESI": {
+                    "id": "emp_payable_esi",
+                    "name": "emp_payable_esi"
+            },
+            "Employees Payable PF": {
+                "id": "emp_payable_pf",
+                "name": "emp_payable_pf"
+            },
+            "Rent Payable": {
+                "id": "rent_payable",
+                "name": "rent_payable"
+            }
+        },
+        "Fixed Assets":{
+            "AC Laboratory": {
+                "id": "ac_laboratory",
+                "name": "ac_laboratory"
+            },
+            "Automobile Laboratory": {
+                "id": "automobile_laboratory",
+                "name": "automobile_laboratory"
+            },
+            "Electrical and Solar Laboratory": {
+                "id": "electrical_n_solar_laboratory",
+                "name": "electrical_n_solar_laboratory"
+            },
+            "Electronics Laboratory": {
+                "id": "electronics_laboratory",
+                "name": "electronics_laboratory"
+            },
+            "Civil Laboratory": {
+                "id": "civil_laboratory",
+                "name": "civil_laboratory"
+            },
+            "Computer Hardware Laboratory": {
+                "id": "computer_hardware_laboratory",
+                "name": "computer_hardware_laboratory"
+            },
+            "Computer Software Laboratory": {
+                "id": "computer_software_laboratory",
+                "name": "computer_software_laboratory"
+            },
+            "Furniture and Fixes": {
+                "id": "furniture_n_fixes",
+                "name": "furniture_n_fixes"
+            },
+            "Office Equipments": {
+                "id": "office_equipments",
+                "name": "office_equipments"
+            },
+            "Libarary Books": {
+                "id": "library_books",
+                "name": "library_books"
+            }
+        },
+        "Current Assets":{
+            "Advaced Received":{
+                "id":"advanced_received",
+                "name":"advanced_received"
+            },
+            "Security Deposit":{
+                "id":"security_deposit",
+                "name":"security_deposit"
+            },
+            "Cash in Hand":{
+                "id":"cash_n_hand",
+                "name":"cash_n_hand"
+            },
+            "Cash at Bank":{
+                "id":"cash_at_bank",
+                "name":"cash_at_bank"
+            },
+            "Receivable Loan":{
+                "id":"receivable_loan",
+                "name":"receivable_loan"
+            },
+            "Receivable Dues":{
+                "id":"receivable_dues",
+                "name":"receivable_dues"
+            }
+        },
+        "Income":{
+            "Tution Fees":{
+                "id":"tutuion_fees",
+                "name":"tutuion_fees"
+            },
+            "Registration Fees":{
+                "id":"registration_fees",
+                "name":"registration_fees"
+            },
+            "Other Fees":{
+                "id":"other_fees",
+                "name":"other_fees"
+            },
+            "Royalty Receipt":{
+                "id":"royalty_receipt",
+                "name":"royalty_receipt"
+            },
+            "Sale of Brochure":{
+                "id":"sale_of_brochure",
+                "name":"sale_of_brochure"
+            },
+            "Interest Received":{
+                "id":"interest_received",
+                "name":"interest_received"
+            },
+            "Misc. Income":{
+                "id":"misc_income",
+                "name":"misc_income"
+            }
+        },
+        "Expenditure":{
+            "Advertisement":{
+                "id":"",
+                "name":""
+            },
+            "Bank Charges":{
+                "id":"",
+                "name":""
+            },
+            "Cosultancy":{
+                "id":"",
+                "name":""
+            },
+            "Cosumable Store":{
+                "id":"",
+                "name":""
+            },
+            "Conveyance Expense":{
+                "id":"",
+                "name":""
+            },
+            "Depriciation":{
+                "id":"",
+                "name":""
+            },
+            "Electricity Charges":{
+                "id":"",
+                "name":""
+            },
+            "GST on Royalty":{
+                "id":"",
+                "name":""
+            },
+            "General Expenses":{
+                "id":"",
+                "name":""
+            },
+            "Paper & Periodical":{
+                "id":"",
+                "name":""
+            },
+            "Printing & Stationery":{
+                "id":"",
+                "name":""
+            },
+            "P.Tax":{
+                "id":"",
+                "name":""
+            },
+            "Rent":{
+                "id":"",
+                "name":""
+            }, 
+            "Repairing & Replacment":{
+                "id":"",
+                "name":""
+            },
+            "Renovation Expense":{
+                "id":"",
+                "name":""
+            },
+            "Retainership Fee":{
+                "id":"",
+                "name":""
+            },
+            "Salary":{
+                "id":"",
+                "name":""
+            },
+            "Staff Welfare":{
+                "id":"",
+                "name":""
+            },
+            "Students Welfare":{
+                "id":"",
+                "name":""
+            },
+            "Telephone Charges":{
+                "id":"",
+                "name":""
+            },
+            "Trade License":{
+                "id":"",
+                "name":""
+            }
+        }
+    }
+}
